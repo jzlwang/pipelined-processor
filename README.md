@@ -1,0 +1,1 @@
+an implementation of a 2-stage pipelined processor for Ida 2 assembly language (a simplified version of MIPS) in Logisim
